@@ -1,0 +1,7 @@
+.pyre/
+
+#pytype static type analyzer
+.pytype/
+
+# Cython debud symbols
+cython_debug/
